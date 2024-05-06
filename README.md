@@ -7,7 +7,7 @@ The assistance provided by Custom GPT Analyzer is multifaceted. It includes a de
 #
 ### Example Usage
 
-<details><summary>Campsite Compass Analysis</summary>
+<details><summary>Camping Compass Analysis</summary>
 <br>
 
 ![Screenshot](https://github.com/sourceduty/Custom_GPT_Analyzer/assets/123030236/213f7623-2a5d-4b14-ab5a-3d56493295ae)

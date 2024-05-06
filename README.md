@@ -103,6 +103,8 @@ Overall, "ChatGPT Cheats" is a robust tool for those looking to leverage ChatGPT
 </details>
 
 #
+> Alex *"The accuracy of the analysis needs to be improved. This is a really good idea for ChatGPT and custom GPTs."*
+#
 ### Related Links
 
 [GPT Creation Guide](https://chatgpt.com/g/g-GoLkguGSc-gpt-creation-guide)
